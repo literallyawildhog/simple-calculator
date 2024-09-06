@@ -33,7 +33,7 @@
    - Configure the Python environment by going to `Tools` > `Options` > `Python Environments`.
 
 4. **Run the script**:
-   - Open the `simple_calculator.py` file in Visual Studio.
+   - Open the `simplecalculator.py` file in Visual Studio.
    - Press `F5` or click the `Start` button to run the script.
 
 ### Usage
