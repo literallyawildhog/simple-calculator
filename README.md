@@ -1,2 +1,2 @@
 # simple-calculator
-Simple Calculator written in Python
+Simple Calculator written in Python using Visual Studio
